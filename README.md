@@ -72,7 +72,7 @@ Aqui foi aprendido técnicas de:<br>
 <div>
 
 Para ter Acesso ao Projeto; clique no link Abaixo:  <br>
-> [Brafé](https://bikcraft-woad.vercel.app/)
+> [Brafé](https://css-avancado.vercel.app/)
 
 
 <div align='center'>
